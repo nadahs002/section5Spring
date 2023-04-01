@@ -71,9 +71,9 @@
         </dependency>
         
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-thymeleaf</artifactId>
-        </dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-thymeleaf</artifactId>
+</dependency>
         
         <dependency>
 <groupId>nz.net.ultraq.thymeleaf</groupId>
@@ -81,10 +81,11 @@
 </dependency>
 
 <dependency>
-<groupId>org.webjars</groupId>
-<artifactId>jquery</artifactId>
-<version>3.5.1</version>
+<groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-thymeleaf</artifactId>
 </dependency>
+
+
 
 	</dependencies>
 
